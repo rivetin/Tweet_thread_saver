@@ -5,6 +5,12 @@ Twitter has many great people sharing valuable information in the form of thread
 ### Boot the bot 🤖
 Apply for a twitter dev account and Replace the Keys and Secrets in `sample.env` and rename the file to `.env`
 
+### Deploy the Bot 
+
+```python3 mybot.py```  
+
+a TXT file with tweets will be created 
+
 ### Dependencies ⚙️: 
 tweepy    
 dotenv   
